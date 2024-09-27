@@ -1,12 +1,11 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-</style>
 
 :root {
-    --bg-color: #222831;
-    --primary-color: #DDDDDD;
-    --secondary-color: #F05454;
-    --font: "Nunito Sans", sans-serif;
+    --bg-color: #0bb8e4;
+    --primary-color: #183ca0;
+    --secondary-color: #6829bb;
+    --font: Bebas Neue", sans-serif;
 }
 
 body {
