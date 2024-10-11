@@ -1,11 +1,10 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #0bb8e4;
-    --primary-color: #183ca0;
-    --secondary-color: #6829bb;
-    --font: Bebas Neue", sans-serif;
+    --bg-color: #0e62e0;
+    --primary-color: #30d8e4;
+    --secondary-color: #a30808;
+    --font: "Roboto Slab", serif;
 }
 
 body {
