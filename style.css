@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root {
-    --bg-color: #A5B68D;
-    --primary-color: #EAD8B1;
-    --secondary-color: #e76011;
+    --bg-color:#EAD8B1;
+    --primary-color: #A5B68D;
+    --secondary-color: #798645;
     --font: "Roboto Slab", serif;
 }
 
